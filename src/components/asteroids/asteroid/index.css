@@ -1,0 +1,26 @@
+.card-img {
+  overflow: hidden;
+  height: 150px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://avatars.mds.yandex.net/get-zen_doc/3703431/pub_5f17b6716889d050cea8ae6e_5f17d57ebf6b5e5d5abca120/scale_1200");
+  margin-bottom: 20px;
+}
+
+.card {
+  padding: 10px;
+  width: 400px;
+  min-width: auto !important;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.list-group {
+  border: none !important;
+}
+
+.list-group-item {
+  cursor: pointer;
+}

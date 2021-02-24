@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 25px;
+}
+
+.spinner-border {
+  width: 10rem;
+  height: 10rem;
+}

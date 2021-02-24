@@ -1,0 +1,11 @@
+.page-link:hover {
+  background-color: #f80;
+}
+
+.page-link:focus {
+  box-shadow: none;
+}
+
+.page-selected {
+  color: #f80 !important;
+}

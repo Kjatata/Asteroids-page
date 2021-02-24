@@ -1,0 +1,17 @@
+.navbar-brand {
+  padding-right: 40px;
+  font-size: 22px;
+}
+
+.navbar-img {
+  height: 40px;
+}
+
+.btn-warning:focus {
+  background-color: #f80;
+  border-color: none;
+  box-shadow: none;
+}
+.btn-warning:active {
+  box-shadow: 0 0 0 0.2rem rgb(255 154 38 / 50%);
+}
